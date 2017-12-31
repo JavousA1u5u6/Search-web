@@ -58,6 +58,8 @@ Tomcat：apache-tomcat-7.0.53
 
 
 
+
+
 ## 问题 ##
 
 1.思考 solr作为全文检索工具  的 运行结构

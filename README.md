@@ -7,7 +7,7 @@
 ## 使用技术 ##
 Solr：Solr4.10.3
 Jdk：jdk1.7.0_72
-Tomcat：apache-tomcat-7.0.0
+Tomcat：apache-tomcat-6.0.0
 speing3.2.0
 jstl
 junit
